@@ -59,18 +59,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ---
 
-## Thời tiết hiện tại
-
-![weather](https://openweathermap.org/img/wn/04n@2x.png)
-
-Hiện tại, trời mây đen u ám, nhiệt độ **27°C**, độ ẩm **89%**, cảm giác như **30.63°C**.
-
-Nhiệt độ thấp nhất là **27°C** và cao nhất là **27°C**
-
-Hôm nay mặt trời mọc lúc **5:35:40** và lặn lúc **18:19:56**.
-
----
-
 Copyright © 2022 [tuannguyen29](https://tramcode.net/)
 
 Cập nhận lần cuối lúc 00:58:54, 5/7/2022
