@@ -29,5 +29,5 @@ jobs:
       - run: |
           git add README.md
           git add LICENSE
-          git commit -m "Updated at $(date)"
+          git commit -m "refactor: Updated at $(date)"
           git push origin main
