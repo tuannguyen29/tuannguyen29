@@ -67,10 +67,10 @@ Hiện tại, trời mây đen u ám, nhiệt độ **27°C**, độ ẩm **89%*
 
 Nhiệt độ thấp nhất là **27°C** và cao nhất là **27°C**
 
-Hôm nay mặt trời mọc lúc **5:35:55** và lặn lúc **18:20:01**.
+Hôm nay mặt trời mọc lúc **5:36:11** và lặn lúc **18:20:05**.
 
 ---
 
 Copyright © 2022 [tuannguyen29](https://tramcode.net/)
 
-Cập nhận lần cuối lúc 23:59:02, 6/7/2022
+Cập nhận lần cuối lúc 00:43:00, 7/7/2022
