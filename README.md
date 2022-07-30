@@ -70,9 +70,9 @@ I'm full stack developer, currently living and working in Vietnam.
 
 ![weather](https://openweathermap.org/img/wn/04n@2x.png)
 
-Now, the temperature **33°C**, humidity **58%**, feel like **38.81°C**.
+Now, the temperature **28°C**, humidity **69%**, feel like **30.54°C**.
 
-The lowest temperature is **33°C** and the highest is **33°C**
+The lowest temperature is **28°C** and the highest is **28°C**
 
 Today the sun rises at **5:41:31** and sets at **18:18:09**.
 
@@ -80,7 +80,7 @@ Today the sun rises at **5:41:31** and sets at **18:18:09**.
 
 Copyright © 2022 [tuannguyen29](https://tramcode.net/)
 
-Last updated at 16:38:09, 30/7/2022
+Last updated at 17:39:51, 30/7/2022
 
 ## Reach me on
 
