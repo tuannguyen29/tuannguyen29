@@ -74,13 +74,13 @@ Now, the temperature **24°C**, humidity **78%**, feel like **24.49°C**.
 
 The lowest temperature is **24°C** and the highest is **24°C**
 
-Today the sun rises at **6:16:40** and sets at **17:51:32**.
+Today the sun rises at **6:16:47** and sets at **17:52:01**.
 
 ---
 
 Copyright © 2022 [tuannguyen29](https://tramcode.net/)
 
-Last updated at 07:34:30, 20/1/2023
+Last updated at 06:08:13, 21/1/2023
 
 ## Reach me on
 
