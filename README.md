@@ -7,11 +7,11 @@ I'm full stack developer, currently living and working in Vietnam.
 
 ## Recent Posts
 
-- [Trạm Code Blog](https://tramcode.net)
-- [How to install MongoDB with Docker and Docker Compose on windows 10](https://tramcode.net/p/how-to-install-mongodb-with-docker-and-docker-compose-on-windows-10-62b93521f0722)
-- [How to install and run WSL 2 with Ubuntu Server 20.04 on Windows 10](https://tramcode.net/p/how-to-install-and-run-wsl-2-with-ubuntu-server-2004-on-windows-10-62b97f56a60a8)
-- [Chọn bộ Font chữ làm đẹp editor tạo cảm hứng cho lập trình viên](https://tramcode.net/p/chon-bo-font-chu-lam-dep-editor-tao-cam-hung-cho-lap-trinh-vien-62b2e09ea476b)
-- [Một số Package Sublime Text cho PHP Developer](https://tramcode.net/p/mot-so-package-sublime-text-cho-php-developer-62b5e92811d1b)
+- [Larabin Blog](https://blog.larabin.com)
+- [How to install MongoDB with Docker and Docker Compose on windows 10](https://blog.larabin.com/p/how-to-install-mongodb-with-docker-and-docker-compose-on-windows-10-62b93521f0722)
+- [How to install and run WSL 2 with Ubuntu Server 20.04 on Windows 10](https://blog.larabin.com/p/how-to-install-and-run-wsl-2-with-ubuntu-server-2004-on-windows-10-62b97f56a60a8)
+- [Chọn bộ Font chữ làm đẹp editor tạo cảm hứng cho lập trình viên](https://blog.larabin.com/p/chon-bo-font-chu-lam-dep-editor-tao-cam-hung-cho-lap-trinh-vien-62b2e09ea476b)
+- [Một số Package Sublime Text cho PHP Developer](https://blog.larabin.com/p/mot-so-package-sublime-text-cho-php-developer-62b5e92811d1b)
 
 ## Languages & Framework
 
@@ -70,22 +70,22 @@ I'm full stack developer, currently living and working in Vietnam.
 
 ![weather](https://openweathermap.org/img/wn/04n@2x.png)
 
-Now, the temperature **27°C**, humidity **94%**, feel like **31.16°C**.
+Now, the temperature **35°C**, humidity **41%**, feel like **37.52°C**.
 
-The lowest temperature is **27°C** and the highest is **27°C**
+The lowest temperature is **35°C** and the highest is **35°C**
 
-Today the sun rises at **5:38:12** and sets at **18:20:10**.
+Today the sun rises at **6:07:53** and sets at **18:03:42**.
 
 ---
 
-Copyright © 2022 [tuannguyen29](https://tramcode.net/)
+Copyright © 2022 [tuannguyen29](https://blog.larabin.com/)
 
-Last updated at 19:42:41, 15/7/2022
+Last updated at 14:38:48 2/3/2024
 
 ## Reach me on
 
-[![blog](https://img.shields.io/badge/Website-14A0C4?style=for-the-badge&logo=pelican&logoColor=white)](https://tramcode.net/)
+[![blog](https://img.shields.io/badge/Website-14A0C4?style=for-the-badge&logo=pelican&logoColor=white)](https://blog.larabin.com/)
 [![github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/tuannguyen29)
 [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuanngminh29)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyentuan2909/)
-[![facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tramcode.net)
+[![facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/blog.larabin.com)
