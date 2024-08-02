@@ -72,7 +72,7 @@ I'm full stack developer, currently living and working in Vietnam.
 
 Now, the temperature **28°C**, humidity **89%**, feel like **33.57°C**.
 
-The lowest temperature is **28°C** and the highest is **28.36°C**
+The lowest temperature is **28°C** and the highest is **28.92°C**
 
 Today the sun rises at **5:42:17** and sets at **18:16:58**.
 
@@ -80,7 +80,7 @@ Today the sun rises at **5:42:17** and sets at **18:16:58**.
 
 Copyright © 2022 [tuannguyen29](https://blog.larabin.com/)
 
-Last updated at 06:44:42 3/8/2024
+Last updated at 06:52:04 3/8/2024
 
 ## Reach me on
 
