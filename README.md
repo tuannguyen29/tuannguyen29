@@ -70,7 +70,7 @@ I'm full stack developer, currently living and working in Vietnam.
 
 ![weather](https://openweathermap.org/img/wn/04n@2x.png)
 
-Now, the temperature **21°C**, humidity **83%**, feel like **21.32°C**.
+Now, the temperature **21°C**, humidity **78%**, feel like **21.19°C**.
 
 The lowest temperature is **21°C** and the highest is **22.25°C**
 
@@ -80,7 +80,7 @@ Today the sun rises at **6:07:21** and sets at **17:36:43**.
 
 Copyright © 2022 [tuannguyen29](https://blog.larabin.com/)
 
-Last updated at 06:09:13 22/12/2024
+Last updated at 06:22:55 22/12/2024
 
 ## Reach me on
 
